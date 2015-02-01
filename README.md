@@ -1,4 +1,4 @@
-Cookie Stealer
+Cookies Manager
 ==============
 
 A simple program in PHP to help with XSS vulnerability in this program are the following:<br>
