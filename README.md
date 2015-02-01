@@ -8,6 +8,4 @@ A simple program in PHP to help with XSS vulnerability in this program are the f
 [+] Can create cookies with information they want<br>
 [+] Hidden to login to enter Panel use ?poraca to find the login<br>
 <br>
-A video with examples of use : <br>
-<br>
-https://www.youtube.com/watch?v=UOIjf5ms1Ps<br>
+A video with examples of use : https://www.youtube.com/watch?v=UOIjf5ms1Ps<br>
